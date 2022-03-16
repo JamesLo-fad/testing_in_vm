@@ -1,5 +1,5 @@
-pandas~=1.4.1
-selenium~=4.1.0
+pandas
+selenium
 webdriver-manager
 mysql-connector
 gcloud
